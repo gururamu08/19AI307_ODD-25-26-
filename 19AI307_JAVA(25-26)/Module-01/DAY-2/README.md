@@ -26,8 +26,8 @@ To write a Java program that demonstrates the use of variables, data types, oper
 ## PROGRAM:
  ```
 Program to implement variables and Operators using Java
-Developed by: Kavinesh M
-Register Number: 212222230064
+Developed by: GURUMOORTHI R
+Register Number: 212222230042
 ```
 
 ## SOURCE CODE:
@@ -54,6 +54,7 @@ public class Main
 
 ## RESULT:
 Thus, the Java program demonstrating variables, data types, operators, and print statements was successfully executed.
+
 
 
 
